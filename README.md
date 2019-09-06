@@ -1,8 +1,8 @@
-#Test task for ZOOM QA Automation
+# Test task for ZOOM QA Automation
 UI tests for Google form. 
 URL - https://docs.google.com/forms/d/e/1FAIpQLScNx9xK2LM-G3Z3fJXOQapiSK1IAoNXc_67MyS-soTfhDXotA/viewform. 
 
-##Project description
+## Project description
 Tests are separated for different browser.
 
 List of supported browsers and classes for them:
@@ -13,5 +13,5 @@ List of supported browsers and classes for them:
 Class "Constants" contains all elements that would be used in tests. "GoogleFormNavigation" contains all test logic. 
 "AbstractNavigationTest" is abstract class used for starting actions, containing in "GoogleFormNavigation". 
 
-##Built with
-Built with Maven. Requires at least Java 1.8.
+## Built with
+Built with Maven. Requires Java 1.8.
