@@ -3,7 +3,7 @@ UI tests for Google form.
 URL - https://docs.google.com/forms/d/e/1FAIpQLScNx9xK2LM-G3Z3fJXOQapiSK1IAoNXc_67MyS-soTfhDXotA/viewform. 
 
 ## Project description
-Tests are separated for different browser.
+Tests are separated for different browsers.
 
 List of supported browsers and classes for them:
 - ChromeNavigationTest for Google Chrome;
